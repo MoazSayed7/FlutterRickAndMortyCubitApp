@@ -10,9 +10,18 @@ This Flutter application uses the Rick and Morty API to display characters and t
   - Displays character's image, status, origin, location, species, gender, sub-species, and a quote.
 
 ## Screenshots
-
-![Character List Screen](screenshots/character_list.png)
-![Character Detail Screen](screenshots/character_detail.png)
+<HTML>
+    <body>
+        <img src="https://github.com/MoazSayed7/FlutterRickAndMortyCubitApp/assets/75115429/19d91865-2a51-456c-8b75-b26920ef7b33" alt="drawing" style="width:250px;"/>
+        <img src="https://github.com/MoazSayed7/FlutterRickAndMortyCubitApp/assets/75115429/cbfb7b53-d479-4002-a5b8-7c796af416c2" alt="drawing" style="width:250px;"/>
+        <img src="https://github.com/MoazSayed7/FlutterRickAndMortyCubitApp/assets/75115429/4cb24733-2dba-4a6c-a647-92fe2f268718" alt="drawing" style="width:250px;"/>
+        <br />
+        <br />
+        <br />
+        <img src="https://github.com/MoazSayed7/FlutterRickAndMortyCubitApp/assets/75115429/6bce0d91-870d-4c6e-b89e-0922cab34e7d" alt="drawing" style="width:250px;"/>
+        <img src="https://github.com/MoazSayed7/FlutterRickAndMortyCubitApp/assets/75115429/bec5e493-1d21-4484-b59e-c13876c8b8f3" alt="drawing" style="width:250px;"/>
+    </body>
+</HTML>
 
 ## Getting Started
 
