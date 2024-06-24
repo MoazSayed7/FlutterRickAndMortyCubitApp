@@ -60,7 +60,7 @@ This project uses the following Flutter packages:
     flutter run
     ```
 
-## Folder Structure
+## Project Structure
 
 Here is a brief explanation of the project's folder structure:
 
